@@ -1,0 +1,13 @@
+package cm.abdev.medlapp;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MedlappApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MedlappApplication.class, args);
+	}
+
+}
