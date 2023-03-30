@@ -44,7 +44,7 @@ _Application de gestion pour laboratoire d'analyse médicale, partie backend_
      </ul>
   </li>
   <li> Divers 
-    <p>  Nous nous proposons de réaliser ce système que nous nommons (en attendant le nom donné par le client) MedLab App.</p>
+    <p>  Nous nous proposons de réaliser ce système que nous nommons MedLab App.</p>
   </li>
    
  </ol>
