@@ -3,7 +3,6 @@ package cm.abdev.medlapp.dto.patiesting;
 import cm.abdev.medlapp.dto.patient.PatientDTO;
 import cm.abdev.medlapp.dto.testing.TestingDTO;
 import cm.abdev.medlapp.exception.MedLAppGeneralException;
-import cm.abdev.medlapp.model.Patient;
 import cm.abdev.medlapp.model.PatientTesting;
 import cm.abdev.medlapp.util.CodedMessages;
 import lombok.AllArgsConstructor;
